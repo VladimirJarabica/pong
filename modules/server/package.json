@@ -6,7 +6,7 @@
     "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ts-node": "^8.4.1",
     "uuid": "^3.3.3",
     "ws": "^7.2.0"
